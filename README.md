@@ -78,8 +78,8 @@ To integrate these custom blocks into your GNU Radio flowgraphs, follow these st
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/mramirsnt/Out-of-Tree-Modules-for-GNU-Radio.git
+cd directory
 ```
 
 ### Run the Setup Script
